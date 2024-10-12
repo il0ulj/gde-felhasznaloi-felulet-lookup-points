@@ -15,14 +15,25 @@ Minden esetben PDF-formátumban kell a megoldást feltölteni. Ha valaki a szorg
 ### Alkalmazás célja
 A LookUp! Points célja, hogy a felhasználók felfedezzék a városuk történelmi és híres helyeit, miközben információkat kapnak az adott helyszínekről és múltbéli eseményekről, virtuális valóság (VR) élményeken keresztül.
 ### Főbb funkciók
-- Regisztráció: Felhasználók e-mail címmel regisztrálhatnak az alkalmazásban.
-- Bejelentkezés: Regisztrált felhasználók bejelentkezhetnek fiókjukba.
-- Kezdőképernyő: A felhasználó tartózkodási helyét mutatja, és lehetőséget biztosít az aktuális helyszínek felfedezésére.
-- Helyszín-értesítések: Értesítések megjelenítése, amikor a felhasználó híres vagy történelmi helyszínek közelébe ér.
-- Kamera nézet: A telefon kamerájának használata a környező helyszínek azonosítására, információk megjelenítése felugró üzenetek formájában.
-- Virtuális valóság: Múltbéli események felidézése VR élményeken keresztül.
-- Beállítások: Felhasználói adatok megjelenítése és beállítások kezelése (értesítések, nyelv, stb.).
+- **Regisztráció:** Felhasználók e-mail címmel regisztrálhatnak az alkalmazásban.
+- **Bejelentkezés:** Regisztrált felhasználók bejelentkezhetnek fiókjukba.
+- **Kezdőképernyő:** A felhasználó tartózkodási helyét mutatja, és lehetőséget biztosít az aktuális helyszínek felfedezésére.
+- **Helyszín-értesítések:** Értesítések megjelenítése, amikor a felhasználó híres vagy történelmi helyszínek közelébe ér.
+- **Kamera nézet:** A telefon kamerájának használata a környező helyszínek azonosítására, információk megjelenítése felugró üzenetek formájában.
+- **Virtuális valóság:** Múltbéli események felidézése VR élményeken keresztül.
+- **Beállítások:** Felhasználói adatok megjelenítése és beállítások kezelése (értesítések, nyelv, stb.).
 ### Tervezett képernyők
 #### Kezdőképernyő
 - Regisztrációs és bejelentkezési lehetőségek.
 - Rövid leírás az alkalmazás funkcióiról.
+#### Főképernyő
+- Térkép nézet a felhasználó aktuális helyével.
+- Javasolt helyszínek listája.
+#### Helyszín részletek képernyő
+- Felugró üzenet az adott helyszín információival.
+- VR élmény aktiválása.
+#### Kamera nézet
+- A kamera képe, az információk megjelenítése az aktuális helyszínről.
+#### Profil képernyő
+- Felhasználói adatok megjelenítése és beállítások kezelése.
+
