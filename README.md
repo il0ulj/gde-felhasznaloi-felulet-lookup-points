@@ -9,4 +9,5 @@ A felület megtervezhető:
 - a Balsamiq Mockup -ban elkészítve.
 
 Minden esetben PDF-formátumban kell a megoldást feltölteni. Ha valaki a szorgalmi időszak végéig feltölti a feladatot, akkor megajánlott jegyet kap. Ha ez nem történik meg, akkor a vizsgaidőszakban kiírt vizsgaidőpontokkor kell az elkészített feladatot feltöltenie. A feltöltési lehetőség a Neptunban a Feladatok-nál fog látszódni.
-Feladat beadási határideje: 2024.12.02.
+
+**Feladat beadási határideje:** 2024.12.02.
