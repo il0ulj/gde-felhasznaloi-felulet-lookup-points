@@ -11,3 +11,18 @@ A felület megtervezhető:
 Minden esetben PDF-formátumban kell a megoldást feltölteni. Ha valaki a szorgalmi időszak végéig feltölti a feladatot, akkor megajánlott jegyet kap. Ha ez nem történik meg, akkor a vizsgaidőszakban kiírt vizsgaidőpontokkor kell az elkészített feladatot feltöltenie. A feltöltési lehetőség a Neptunban a Feladatok-nál fog látszódni.
 
 **Feladat beadási határideje:** 2024.12.02.
+## LookUp! Points mobilalkalmazás rövid specifikációja
+### Alkalmazás célja
+A LookUp! Points célja, hogy a felhasználók felfedezzék a városuk történelmi és híres helyeit, miközben információkat kapnak az adott helyszínekről és múltbéli eseményekről, virtuális valóság (VR) élményeken keresztül.
+### Főbb funkciók
+- Regisztráció: Felhasználók e-mail címmel regisztrálhatnak az alkalmazásban.
+- Bejelentkezés: Regisztrált felhasználók bejelentkezhetnek fiókjukba.
+- Kezdőképernyő: A felhasználó tartózkodási helyét mutatja, és lehetőséget biztosít az aktuális helyszínek felfedezésére.
+- Helyszín-értesítések: Értesítések megjelenítése, amikor a felhasználó híres vagy történelmi helyszínek közelébe ér.
+- Kamera nézet: A telefon kamerájának használata a környező helyszínek azonosítására, információk megjelenítése felugró üzenetek formájában.
+- Virtuális valóság: Múltbéli események felidézése VR élményeken keresztül.
+- Beállítások: Felhasználói adatok megjelenítése és beállítások kezelése (értesítések, nyelv, stb.).
+### Tervezett képernyők
+#### Kezdőképernyő
+- Regisztrációs és bejelentkezési lehetőségek.
+- Rövid leírás az alkalmazás funkcióiról.
