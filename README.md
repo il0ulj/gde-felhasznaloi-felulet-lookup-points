@@ -25,12 +25,11 @@ A LookUp! Points célja, hogy a felhasználók felfedezzék a városuk történe
 ### Tervezett képernyők
 #### Kezdőképernyő
 - Regisztrációs és bejelentkezési lehetőségek.
-- Rövid leírás az alkalmazás funkcióiról.
 #### Főképernyő
 - Térkép nézet a felhasználó aktuális helyével.
-- Javasolt helyszínek listája.
+- Javasolt helyszínek megjelenítése map markerekkel.
 #### Helyszín részletek képernyő
-- Felugró üzenet az adott helyszín információival.
+- Részletes leírás az adott helyszín információival.
 - VR élmény aktiválása.
 #### Kamera nézet
 - A kamera képe, az információk megjelenítése az aktuális helyszínről.
