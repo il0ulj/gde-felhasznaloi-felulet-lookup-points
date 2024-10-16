@@ -30,9 +30,9 @@ A LookUp! Points célja, hogy a felhasználók felfedezzék a városuk történe
 - Javasolt helyszínek megjelenítése map markerekkel.
 #### Helyszín részletek képernyő
 - Részletes leírás az adott helyszín információival.
-- VR élmény aktiválása.
 #### Kamera nézet
 - A kamera képe, az információk megjelenítése az aktuális helyszínről.
+- VR aktiválása, amennyiben elérhető.
 #### Profil képernyő
 - Felhasználói adatok megjelenítése és beállítások kezelése.
 
